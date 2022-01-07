@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @akis0
+- 👋 Hi, I’m @akis0 Akihiro Isotani
+- Student at Kyoto Institute of Technology, Department of Information Science
 - 👀 I’m interested in cybersecurity and osint
 <!---- 🌱 I’m currently learning---> 
 <!--- - 💞️ I’m looking to collaborate on ... --->
