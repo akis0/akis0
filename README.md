@@ -5,8 +5,6 @@
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
 
-I'm looking for an internship.
-
 
 
 
