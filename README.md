@@ -5,8 +5,15 @@
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I'm interested in decision-making process that involves multiple people or groups 
 and I read articles about decision-making of company or nation. Also, I'm interested in OSINT that decision-making should be based on.
+
+
+
+
 
 <!---
 my experience at University Classes
