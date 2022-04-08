@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akis0 Akihiro Isotani
 - Student at Kyoto Institute of Technology, Department of Information Science
-- 👀 I’m interested in total optimization and osint.
+- 👀 I’m interested in mechanical design and osint.
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
