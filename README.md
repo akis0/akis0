@@ -3,8 +3,11 @@
 - 👀 I’m interested in mechanism design, auction theory, cybersecurity, and osint.
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
 
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
+-->
 I'm interested in decision-making process that involves multiple people or groups 
 
 
