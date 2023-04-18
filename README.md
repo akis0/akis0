@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akis0 Akihiro Isotani
-- Student at Kyoto Institute of Technology, Department of Information Science
+- I'm an ICT Engineer using cloud computing. 
 - 👀 I’m interested in mechanism design, auction theory, cybersecurity, and osint.
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com
