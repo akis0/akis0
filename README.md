@@ -8,14 +8,11 @@
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
 -->
-I'm interested in decision-making process that involves multiple people or groups 
-
-
 
 
 <!---
 my experience at University Classes
-C: I wrote a simple pseudo compiler. 
+C: I wrote a simple pseudo－compiler. 
 Java: I wrote a small GUI application that follows MVC model and  uses JDBC
 Scilab: I wrote some code for Nearest Neighbor Classification and  Naive Bayes classifier
 --->
