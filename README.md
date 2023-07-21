@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @akis0 Akihiro Isotani
+- 👋 Hi, I’m @akis0 Akihiro Isotani 磯谷 彰宏
 - I'm an ICT Engineer using cloud computing. 
-- 👀 I’m interested in mechanism design, auction theory, cybersecurity, and osint.
+- 👀 I’m interested in mechanism design, auction theory, cybersecurity, and finance
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com
-
+- やまぶき会 2018年3月卒業
+- Kyoto Institute of Technology, Dept of Information Science 2023年3月卒業
+- LinkedIn https://www.linkedin.com/in/akihiro-isotani-436771209
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
