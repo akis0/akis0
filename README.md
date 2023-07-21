@@ -8,9 +8,9 @@
 - Kyoto Institute of Technology, Dept of Information Science 2023年3月卒業<br>
   <br>
  <h2> Social </h2> 
-- LinkedIn https://www.linkedin.com/in/akihiro-isotani-436771209 <br>
-- Facebook https://www.facebook.com/akihiro.isotani <br>
-- Instagram https://instagram.com/akinyate?igshid=NGExMmI2YTkyZg== <br>
+- LinkedIn <br> https://www.linkedin.com/in/akihiro-isotani-436771209 <br>
+- Facebook <br> https://www.facebook.com/akihiro.isotani <br>
+- Instagram <br> https://instagram.com/akinyate?igshid=NGExMmI2YTkyZg== <br>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
