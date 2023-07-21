@@ -5,7 +5,10 @@
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com
 - やまぶき会 2018年3月卒業
 - Kyoto Institute of Technology, Dept of Information Science 2023年3月卒業
+  Social 
 - LinkedIn https://www.linkedin.com/in/akihiro-isotani-436771209
+- Facebook https://www.facebook.com/akihiro.isotani
+- Instagram https://instagram.com/akinyate?igshid=NGExMmI2YTkyZg==
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
