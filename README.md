@@ -4,7 +4,7 @@
 - 👀 I’m interested in mechanism design, auction theory, cybersecurity, and finance<br>
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com<br>
-- やまぶき会 会員
+- やまぶき会 会員<br>
 - Kyoto Institute of Technology, Dept of Information Science 2023年3月卒業<br>
   <br>
  <h2> Social </h2> 
