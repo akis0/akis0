@@ -1,7 +1,7 @@
  <h2> Profile </h2>
-- 👋 Hi, I’m Akihiro Isotani 磯谷 彰宏 @akis0<br>
+- Hi, I’m Akihiro Isotani 磯谷 彰宏 @akis0<br>
 - I'm an ICT Engineer using cloud computing. <br>
-- 👀 I’m interested in mechanism design, auction theory, cybersecurity, and finance<br>
+- I’m interested in mechanism design, auction theory, cybersecurity, and finance<br>
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com<br>
 - やまぶき会 会員<br>
