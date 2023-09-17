@@ -5,7 +5,7 @@
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me ... send me an email isoiso0316aaa[a/t]gmail[dot]com<br>
 - やまぶき会 会員<br>
-- Kyoto Institute of Technology, Dept of Information Science 2023年3月卒業<br>
+- graduated from Kyoto Institute of Technology, Dept of Information Science 2023 March<br>
   <br>
  <h2> Social </h2> 
 - LinkedIn <br> https://www.linkedin.com/in/akihiro-isotani-436771209 <br>
@@ -15,14 +15,6 @@
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
 -->
-
-
-<!---
-my experience at University Classes
-C: I wrote a simple pseudo－compiler. 
-Java: I wrote a small GUI application that follows MVC model and  uses JDBC
-Scilab: I wrote some code for Nearest Neighbor Classification and  Naive Bayes classifier
---->
 
 
 <!---
