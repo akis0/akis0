@@ -1,7 +1,7 @@
  <h2> Profile </h2>
 - Hi, I’m Akihiro Isotani 磯谷 彰宏 @akis0<br>
 - I'm an ICT Engineer using cloud computing. <br>
-- IT技術者です。kubernetesやawsをよく触ってます。<br>
+- IT技術者です。awsをよく触ってます。<br>
 - I’m interested in finance, auction theory, cybersecurity<br>
 - 金融、オークション理論、サイバーセキュリティに興味あります。 <br>
 <!---- 🌱 I’m currently learning---> 
