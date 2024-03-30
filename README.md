@@ -7,7 +7,7 @@
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me 連絡先はこちらです... send me an email isoiso0316aaa[a/t]gmail[dot]com<br>
 <br>
-- やまぶき会 会員 関東支部、経済分科会<br>
+- やまぶき会 会員 経済分科会<br>
 - graduated from Kyoto Institute of Technology, Dept of Information Science 2023 March<br>
   <br>
  <h2> Social </h2> 
