@@ -1,13 +1,14 @@
  <h2> Profile </h2>
 - Hi, I’m Akihiro Isotani 磯谷 彰宏 @akis0<br>
-- I'm an ICT Engineer using cloud computing. <br>
-- IT技術者です。awsをよく触ってます。<br>
+- I'm an ICT Engineer interested in finance. <br>
+- 少し金融に詳しいIT技術者です。<br>
 - I’m interested in finance, auction theory, cybersecurity<br>
-- 金融、オークション理論、サイバーセキュリティに興味あります。 <br>
+- オークション理論、サイバーセキュリティに興味あります。 <br>
 <!---- 🌱 I’m currently learning---> 
 - 📫 How to reach me 連絡先はこちらです... send me an email isoiso0316aaa[a/t]gmail[dot]com<br>
 <br>
 - やまぶき会 会員 経済分科会<br>
+- 京都工芸繊維大学 情報工学課程 2023卒
 - graduated from Kyoto Institute of Technology, Dept of Information Science 2023 March<br>
   <br>
  <h2> Social </h2> 
