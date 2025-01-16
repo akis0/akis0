@@ -1,7 +1,7 @@
  <h2> Profile </h2>
 - Hi, I’m Akihiro Isotani 磯谷 彰宏 @akis0<br>
 - I'm an ICT Engineer interested in finance. <br>
-- 少し直接金融に詳しいIT技術者です。<br>
+- 少し直接金融に詳しいIT技術者です。第一種証券外務員資格を持ってます。<br>
 - I’m interested in finance, auction theory, cybersecurity<br>
 - オークション理論、サイバーセキュリティに興味あります。 <br>
 <!---- 🌱 I’m currently learning---> 
