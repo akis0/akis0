@@ -5,7 +5,7 @@
 - I’m interested in finance, auction theory, cybersecurity<br>
 - オークション理論、サイバーセキュリティに興味あります。 <br>
 <!---- 🌱 I’m currently learning---> 
-- 📫 How to reach me 連絡先はこちらです... send me an email isoiso0316aaa[a/t]gmail[dot]com<br>
+- 📫 How to reach me 連絡先はこちらです... send me an email hi[a/t]iak[dot]jp<br>
 <br>
 - やまぶき会 会員 経済分科会<br>
 - 京都工芸繊維大学 情報工学課程 2023卒
@@ -14,7 +14,7 @@
  <h2> Social </h2> 
 - LinkedIn <br> https://www.linkedin.com/in/akihiro-isotani-436771209 <br>
 - Facebook <br> https://www.facebook.com/akihiro.isotani <br>
-- Instagram <br> https://instagram.com/akinyate<br>
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akis0)
